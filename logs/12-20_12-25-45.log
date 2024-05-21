@@ -1,0 +1,36 @@
+[12:25:45.919] [INFO   ] thread main starting.
+[12:25:45.927] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[12:25:45.929] [SEVERE ] configuration file was loaded from resources directory.
+[12:25:46.369] [INFO   ] thread dealer starting.
+[12:25:46.369] [INFO   ] Thread dealer starting.
+[12:25:46.372] [INFO   ] Thread Thread-1starting.
+[12:25:46.372] [INFO   ] Thread Thread-2starting.
+[12:25:46.480] [SEVERE ] placing card 33 in slot 11
+[12:25:46.581] [SEVERE ] placing card 31 in slot 0
+[12:25:46.682] [SEVERE ] placing card 45 in slot 1
+[12:25:46.783] [SEVERE ] placing card 72 in slot 6
+[12:25:46.884] [SEVERE ] placing card 65 in slot 4
+[12:25:46.984] [SEVERE ] placing card 15 in slot 5
+[12:25:47.085] [SEVERE ] placing card 10 in slot 2
+[12:25:47.185] [SEVERE ] placing card 21 in slot 7
+[12:25:47.286] [SEVERE ] placing card 40 in slot 10
+[12:25:47.386] [SEVERE ] placing card 24 in slot 9
+[12:25:47.486] [SEVERE ] placing card 22 in slot 3
+[12:25:47.587] [SEVERE ] placing card 37 in slot 8
+[12:25:47.587] [SEVERE ] updating countdown to 60000
+[12:25:48.087] [SEVERE ] exit button pressed
+[12:25:48.589] [SEVERE ] updating countdown to 59000
+[12:25:48.590] [SEVERE ] removing all tokens
+[12:25:48.690] [SEVERE ] removing card from slot 0
+[12:25:48.791] [SEVERE ] removing card from slot 1
+[12:25:48.891] [SEVERE ] removing card from slot 2
+[12:25:48.992] [SEVERE ] removing card from slot 3
+[12:25:49.092] [SEVERE ] removing card from slot 4
+[12:25:49.192] [SEVERE ] removing card from slot 5
+[12:25:49.293] [SEVERE ] removing card from slot 6
+[12:25:49.393] [SEVERE ] removing card from slot 7
+[12:25:49.493] [SEVERE ] removing card from slot 8
+[12:25:49.594] [SEVERE ] removing card from slot 9
+[12:25:49.694] [SEVERE ] removing card from slot 10
+[12:25:49.795] [SEVERE ] removing card from slot 11
+[12:25:49.796] [SEVERE ] announcing winner(s): player 1

@@ -1,0 +1,673 @@
+[13:15:34.366] [INFO   ] thread main starting.
+[13:15:34.379] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[13:15:34.381] [SEVERE ] configuration file was loaded from resources directory.
+[13:15:34.765] [INFO   ] thread dealer starting.
+[13:15:34.768] [INFO   ] Thread dealer starting.
+[13:15:34.770] [INFO   ] Thread Thread-3starting.
+[13:15:34.770] [INFO   ] Thread Thread-4starting.
+[13:15:34.785] [SEVERE ] removing all tokens
+[13:15:34.786] [INFO   ] Thread computer-1 starting.
+[13:15:34.800] [INFO   ] Thread computer-0 starting.
+[13:15:34.808] [SEVERE ] placing card 61 in slot 1
+[13:15:34.838] [SEVERE ] placing card 49 in slot 5
+[13:15:34.858] [SEVERE ] placing card 71 in slot 2
+[13:15:34.869] [SEVERE ] placing card 37 in slot 7
+[13:15:34.885] [SEVERE ] placing card 36 in slot 6
+[13:15:34.901] [SEVERE ] placing card 66 in slot 8
+[13:15:34.916] [SEVERE ] placing card 43 in slot 3
+[13:15:34.932] [SEVERE ] placing card 54 in slot 0
+[13:15:34.948] [SEVERE ] placing card 4 in slot 10
+[13:15:34.963] [SEVERE ] placing card 63 in slot 11
+[13:15:34.979] [SEVERE ] placing card 73 in slot 9
+[13:15:34.994] [SEVERE ] placing card 9 in slot 4
+[13:15:34.994] [SEVERE ] updating countdown to 100
+[13:15:34.995] [SEVERE ] player 1 placing token on slot 9
+[13:15:34.996] [SEVERE ] player 1 placing token on slot 0
+[13:15:34.996] [SEVERE ] player 1 placing token on slot 3
+[13:15:34.997] [SEVERE ] player 2 placing token on slot 7
+[13:15:34.997] [SEVERE ] player 2 placing token on slot 3
+[13:15:34.997] [SEVERE ] player 2 placing token on slot 1
+[13:15:34.997] [SEVERE ] setting player 1 freeze to 4
+[13:15:35.025] [SEVERE ] updating countdown to 0
+[13:15:35.027] [SEVERE ] setting player 2 freeze to 4
+[13:15:35.035] [SEVERE ] updating countdown to 0
+[13:15:36.011] [SEVERE ] setting player 1 freeze to -996
+[13:15:36.012] [SEVERE ] setting player 1 freeze to 0
+[13:15:36.012] [SEVERE ] removing player 1 token from slot 9
+[13:15:36.012] [SEVERE ] removing player 1 token from slot 0
+[13:15:36.013] [SEVERE ] removing player 1 token from slot 3
+[13:15:36.013] [SEVERE ] player 1 placing token on slot 3
+[13:15:36.013] [SEVERE ] player 1 placing token on slot 0
+[13:15:36.013] [SEVERE ] player 1 placing token on slot 6
+[13:15:36.013] [SEVERE ] setting player 1 freeze to 4
+[13:15:36.017] [SEVERE ] updating countdown to 5000
+[13:15:36.019] [SEVERE ] updating countdown to 0
+[13:15:36.020] [SEVERE ] removing all tokens
+[13:15:36.042] [SEVERE ] setting player 2 freeze to -996
+[13:15:36.042] [SEVERE ] removing card from slot 0
+[13:15:36.042] [SEVERE ] setting player 2 freeze to 0
+[13:15:36.042] [SEVERE ] removing player 2 token from slot 7
+[13:15:36.042] [SEVERE ] removing player 2 token from slot 3
+[13:15:36.042] [SEVERE ] removing player 2 token from slot 1
+[13:15:36.056] [SEVERE ] removing card from slot 1
+[13:15:36.072] [SEVERE ] removing card from slot 2
+[13:15:36.088] [SEVERE ] removing card from slot 3
+[13:15:36.103] [SEVERE ] removing card from slot 4
+[13:15:36.119] [SEVERE ] removing card from slot 5
+[13:15:36.135] [SEVERE ] removing card from slot 6
+[13:15:36.153] [SEVERE ] removing card from slot 7
+[13:15:36.167] [SEVERE ] removing card from slot 8
+[13:15:36.182] [SEVERE ] removing card from slot 9
+[13:15:36.198] [SEVERE ] removing card from slot 10
+[13:15:36.213] [SEVERE ] removing card from slot 11
+[13:15:36.213] [SEVERE ] removing all tokens
+[13:15:36.229] [SEVERE ] placing card 66 in slot 6
+[13:15:36.244] [SEVERE ] placing card 0 in slot 9
+[13:15:36.259] [SEVERE ] placing card 39 in slot 2
+[13:15:36.275] [SEVERE ] placing card 35 in slot 1
+[13:15:36.291] [SEVERE ] placing card 51 in slot 10
+[13:15:36.307] [SEVERE ] placing card 63 in slot 4
+[13:15:36.322] [SEVERE ] placing card 57 in slot 0
+[13:15:36.338] [SEVERE ] placing card 80 in slot 7
+[13:15:36.353] [SEVERE ] placing card 79 in slot 3
+[13:15:36.368] [SEVERE ] placing card 78 in slot 8
+[13:15:36.383] [SEVERE ] placing card 71 in slot 5
+[13:15:36.398] [SEVERE ] placing card 4 in slot 11
+[13:15:36.398] [SEVERE ] updating countdown to 100
+[13:15:36.398] [SEVERE ] player 2 placing token on slot 8
+[13:15:36.399] [SEVERE ] player 2 placing token on slot 3
+[13:15:36.399] [SEVERE ] player 2 placing token on slot 9
+[13:15:36.400] [SEVERE ] setting player 2 freeze to 4
+[13:15:36.402] [SEVERE ] updating countdown to 0
+[13:15:37.027] [SEVERE ] setting player 1 freeze to -996
+[13:15:37.027] [SEVERE ] setting player 1 freeze to 0
+[13:15:37.027] [SEVERE ] removing player 1 token from slot 3
+[13:15:37.028] [SEVERE ] removing player 1 token from slot 0
+[13:15:37.028] [SEVERE ] removing player 1 token from slot 6
+[13:15:37.028] [SEVERE ] player 1 placing token on slot 4
+[13:15:37.028] [SEVERE ] player 1 placing token on slot 1
+[13:15:37.028] [SEVERE ] player 1 placing token on slot 7
+[13:15:37.029] [SEVERE ] setting player 1 freeze to 4
+[13:15:37.031] [SEVERE ] updating countdown to 5000
+[13:15:37.032] [SEVERE ] updating countdown to 0
+[13:15:37.032] [SEVERE ] removing all tokens
+[13:15:37.043] [SEVERE ] removing card from slot 0
+[13:15:37.059] [SEVERE ] removing card from slot 1
+[13:15:37.075] [SEVERE ] removing card from slot 2
+[13:15:37.091] [SEVERE ] removing card from slot 3
+[13:15:37.106] [SEVERE ] removing card from slot 4
+[13:15:37.122] [SEVERE ] removing card from slot 5
+[13:15:37.137] [SEVERE ] removing card from slot 6
+[13:15:37.153] [SEVERE ] removing card from slot 7
+[13:15:37.169] [SEVERE ] removing card from slot 8
+[13:15:37.185] [SEVERE ] removing card from slot 9
+[13:15:37.200] [SEVERE ] removing card from slot 10
+[13:15:37.215] [SEVERE ] removing card from slot 11
+[13:15:37.215] [SEVERE ] removing all tokens
+[13:15:37.231] [SEVERE ] placing card 60 in slot 2
+[13:15:37.247] [SEVERE ] placing card 52 in slot 11
+[13:15:37.263] [SEVERE ] placing card 50 in slot 7
+[13:15:37.279] [SEVERE ] placing card 32 in slot 9
+[13:15:37.295] [SEVERE ] placing card 48 in slot 6
+[13:15:37.310] [SEVERE ] placing card 65 in slot 0
+[13:15:37.326] [SEVERE ] placing card 73 in slot 4
+[13:15:37.342] [SEVERE ] placing card 22 in slot 8
+[13:15:37.358] [SEVERE ] placing card 77 in slot 5
+[13:15:37.374] [SEVERE ] placing card 15 in slot 1
+[13:15:37.390] [SEVERE ] placing card 28 in slot 10
+[13:15:37.406] [SEVERE ] setting player 2 freeze to -996
+[13:15:37.406] [SEVERE ] placing card 2 in slot 3
+[13:15:37.406] [SEVERE ] updating countdown to 100
+[13:15:37.406] [SEVERE ] setting player 2 freeze to 0
+[13:15:37.406] [SEVERE ] removing player 2 token from slot 8
+[13:15:37.406] [SEVERE ] removing player 2 token from slot 3
+[13:15:37.407] [SEVERE ] removing player 2 token from slot 9
+[13:15:37.407] [SEVERE ] player 2 placing token on slot 5
+[13:15:37.407] [SEVERE ] player 2 placing token on slot 6
+[13:15:37.407] [SEVERE ] player 2 placing token on slot 10
+[13:15:37.407] [SEVERE ] setting player 2 freeze to 4
+[13:15:37.410] [SEVERE ] updating countdown to 0
+[13:15:38.040] [SEVERE ] setting player 1 freeze to -996
+[13:15:38.040] [SEVERE ] setting player 1 freeze to 0
+[13:15:38.040] [SEVERE ] removing player 1 token from slot 4
+[13:15:38.040] [SEVERE ] removing player 1 token from slot 1
+[13:15:38.040] [SEVERE ] removing player 1 token from slot 7
+[13:15:38.040] [SEVERE ] player 1 placing token on slot 11
+[13:15:38.041] [SEVERE ] player 1 placing token on slot 10
+[13:15:38.041] [SEVERE ] player 1 placing token on slot 7
+[13:15:38.041] [SEVERE ] setting player 1 freeze to 4
+[13:15:38.042] [SEVERE ] updating countdown to 5000
+[13:15:38.042] [SEVERE ] updating countdown to 0
+[13:15:38.042] [SEVERE ] removing all tokens
+[13:15:38.056] [SEVERE ] removing card from slot 0
+[13:15:38.071] [SEVERE ] removing card from slot 1
+[13:15:38.086] [SEVERE ] removing card from slot 2
+[13:15:38.102] [SEVERE ] removing card from slot 3
+[13:15:38.118] [SEVERE ] removing card from slot 4
+[13:15:38.134] [SEVERE ] removing card from slot 5
+[13:15:38.150] [SEVERE ] removing card from slot 6
+[13:15:38.166] [SEVERE ] removing card from slot 7
+[13:15:38.182] [SEVERE ] removing card from slot 8
+[13:15:38.197] [SEVERE ] removing card from slot 9
+[13:15:38.212] [SEVERE ] removing card from slot 10
+[13:15:38.228] [SEVERE ] removing card from slot 11
+[13:15:38.228] [SEVERE ] removing all tokens
+[13:15:38.244] [SEVERE ] placing card 70 in slot 7
+[13:15:38.260] [SEVERE ] placing card 46 in slot 9
+[13:15:38.276] [SEVERE ] placing card 71 in slot 10
+[13:15:38.292] [SEVERE ] placing card 76 in slot 1
+[13:15:38.307] [SEVERE ] placing card 0 in slot 11
+[13:15:38.322] [SEVERE ] placing card 50 in slot 4
+[13:15:38.337] [SEVERE ] placing card 38 in slot 3
+[13:15:38.353] [SEVERE ] placing card 61 in slot 2
+[13:15:38.369] [SEVERE ] placing card 6 in slot 8
+[13:15:38.385] [SEVERE ] placing card 67 in slot 5
+[13:15:38.401] [SEVERE ] placing card 8 in slot 0
+[13:15:38.417] [SEVERE ] setting player 2 freeze to -996
+[13:15:38.417] [SEVERE ] placing card 57 in slot 6
+[13:15:38.417] [SEVERE ] updating countdown to 100
+[13:15:38.417] [SEVERE ] setting player 2 freeze to 0
+[13:15:38.417] [SEVERE ] removing player 2 token from slot 5
+[13:15:38.417] [SEVERE ] removing player 2 token from slot 6
+[13:15:38.417] [SEVERE ] removing player 2 token from slot 10
+[13:15:38.418] [SEVERE ] player 2 placing token on slot 2
+[13:15:38.418] [SEVERE ] player 2 placing token on slot 3
+[13:15:38.418] [SEVERE ] player 2 placing token on slot 8
+[13:15:38.418] [SEVERE ] setting player 2 freeze to 4
+[13:15:38.420] [SEVERE ] updating countdown to 0
+[13:15:39.053] [SEVERE ] setting player 1 freeze to -996
+[13:15:39.053] [SEVERE ] setting player 1 freeze to 0
+[13:15:39.053] [SEVERE ] removing player 1 token from slot 11
+[13:15:39.053] [SEVERE ] removing player 1 token from slot 10
+[13:15:39.053] [SEVERE ] removing player 1 token from slot 7
+[13:15:39.054] [SEVERE ] player 1 placing token on slot 10
+[13:15:39.054] [SEVERE ] player 1 placing token on slot 0
+[13:15:39.054] [SEVERE ] player 1 placing token on slot 3
+[13:15:39.054] [SEVERE ] setting player 1 freeze to 4
+[13:15:39.055] [SEVERE ] updating countdown to 5000
+[13:15:39.055] [SEVERE ] updating countdown to 0
+[13:15:39.056] [SEVERE ] removing all tokens
+[13:15:39.069] [SEVERE ] removing card from slot 0
+[13:15:39.085] [SEVERE ] removing card from slot 1
+[13:15:39.101] [SEVERE ] removing card from slot 2
+[13:15:39.117] [SEVERE ] removing card from slot 3
+[13:15:39.133] [SEVERE ] removing card from slot 4
+[13:15:39.149] [SEVERE ] removing card from slot 5
+[13:15:39.164] [SEVERE ] removing card from slot 6
+[13:15:39.179] [SEVERE ] removing card from slot 7
+[13:15:39.195] [SEVERE ] removing card from slot 8
+[13:15:39.211] [SEVERE ] removing card from slot 9
+[13:15:39.227] [SEVERE ] removing card from slot 10
+[13:15:39.243] [SEVERE ] removing card from slot 11
+[13:15:39.243] [SEVERE ] removing all tokens
+[13:15:39.259] [SEVERE ] placing card 22 in slot 0
+[13:15:39.274] [SEVERE ] placing card 18 in slot 11
+[13:15:39.289] [SEVERE ] placing card 6 in slot 6
+[13:15:39.305] [SEVERE ] placing card 57 in slot 7
+[13:15:39.320] [SEVERE ] placing card 69 in slot 10
+[13:15:39.336] [SEVERE ] placing card 28 in slot 5
+[13:15:39.352] [SEVERE ] placing card 25 in slot 2
+[13:15:39.367] [SEVERE ] placing card 10 in slot 9
+[13:15:39.383] [SEVERE ] placing card 11 in slot 4
+[13:15:39.399] [SEVERE ] placing card 78 in slot 1
+[13:15:39.415] [SEVERE ] placing card 42 in slot 8
+[13:15:39.430] [SEVERE ] placing card 23 in slot 3
+[13:15:39.430] [SEVERE ] setting player 2 freeze to -996
+[13:15:39.430] [SEVERE ] updating countdown to 100
+[13:15:39.430] [SEVERE ] setting player 2 freeze to 0
+[13:15:39.430] [SEVERE ] removing player 2 token from slot 2
+[13:15:39.430] [SEVERE ] removing player 2 token from slot 3
+[13:15:39.430] [SEVERE ] removing player 2 token from slot 8
+[13:15:39.430] [SEVERE ] player 2 placing token on slot 5
+[13:15:39.431] [SEVERE ] player 2 placing token on slot 7
+[13:15:39.431] [SEVERE ] player 2 placing token on slot 11
+[13:15:39.431] [SEVERE ] setting player 2 freeze to 4
+[13:15:39.432] [SEVERE ] updating countdown to 0
+[13:15:40.066] [SEVERE ] setting player 1 freeze to -996
+[13:15:40.066] [SEVERE ] setting player 1 freeze to 0
+[13:15:40.066] [SEVERE ] removing player 1 token from slot 10
+[13:15:40.066] [SEVERE ] removing player 1 token from slot 0
+[13:15:40.066] [SEVERE ] removing player 1 token from slot 3
+[13:15:40.067] [SEVERE ] player 1 placing token on slot 7
+[13:15:40.067] [SEVERE ] player 1 placing token on slot 9
+[13:15:40.068] [SEVERE ] player 1 placing token on slot 2
+[13:15:40.068] [SEVERE ] setting player 1 freeze to 4
+[13:15:40.068] [SEVERE ] updating countdown to 5000
+[13:15:40.069] [SEVERE ] updating countdown to 0
+[13:15:40.069] [SEVERE ] removing all tokens
+[13:15:40.082] [SEVERE ] removing card from slot 0
+[13:15:40.098] [SEVERE ] removing card from slot 1
+[13:15:40.114] [SEVERE ] removing card from slot 2
+[13:15:40.130] [SEVERE ] removing card from slot 3
+[13:15:40.146] [SEVERE ] removing card from slot 4
+[13:15:40.162] [SEVERE ] removing card from slot 5
+[13:15:40.178] [SEVERE ] removing card from slot 6
+[13:15:40.194] [SEVERE ] removing card from slot 7
+[13:15:40.210] [SEVERE ] removing card from slot 8
+[13:15:40.226] [SEVERE ] removing card from slot 9
+[13:15:40.242] [SEVERE ] removing card from slot 10
+[13:15:40.258] [SEVERE ] removing card from slot 11
+[13:15:40.258] [SEVERE ] removing all tokens
+[13:15:40.274] [SEVERE ] placing card 74 in slot 7
+[13:15:40.290] [SEVERE ] placing card 24 in slot 2
+[13:15:40.306] [SEVERE ] placing card 71 in slot 11
+[13:15:40.322] [SEVERE ] placing card 68 in slot 3
+[13:15:40.337] [SEVERE ] placing card 34 in slot 5
+[13:15:40.352] [SEVERE ] placing card 21 in slot 10
+[13:15:40.368] [SEVERE ] placing card 41 in slot 0
+[13:15:40.384] [SEVERE ] placing card 67 in slot 4
+[13:15:40.400] [SEVERE ] placing card 64 in slot 6
+[13:15:40.415] [SEVERE ] placing card 33 in slot 9
+[13:15:40.430] [SEVERE ] placing card 42 in slot 1
+[13:15:40.447] [SEVERE ] setting player 2 freeze to -996
+[13:15:40.447] [SEVERE ] placing card 25 in slot 8
+[13:15:40.447] [SEVERE ] setting player 2 freeze to 0
+[13:15:40.447] [SEVERE ] updating countdown to 100
+[13:15:40.447] [SEVERE ] removing player 2 token from slot 5
+[13:15:40.447] [SEVERE ] removing player 2 token from slot 7
+[13:15:40.447] [SEVERE ] removing player 2 token from slot 11
+[13:15:40.447] [SEVERE ] player 2 placing token on slot 4
+[13:15:40.447] [SEVERE ] player 2 placing token on slot 0
+[13:15:40.447] [SEVERE ] player 2 placing token on slot 1
+[13:15:40.447] [SEVERE ] setting player 2 freeze to 4
+[13:15:40.448] [SEVERE ] updating countdown to 0
+[13:15:41.078] [SEVERE ] setting player 1 freeze to -996
+[13:15:41.078] [SEVERE ] setting player 1 freeze to 0
+[13:15:41.078] [SEVERE ] removing player 1 token from slot 7
+[13:15:41.078] [SEVERE ] removing player 1 token from slot 9
+[13:15:41.078] [SEVERE ] removing player 1 token from slot 2
+[13:15:41.078] [SEVERE ] player 1 placing token on slot 5
+[13:15:41.078] [SEVERE ] player 1 placing token on slot 2
+[13:15:41.078] [SEVERE ] player 1 placing token on slot 3
+[13:15:41.079] [SEVERE ] setting player 1 freeze to 4
+[13:15:41.080] [SEVERE ] updating countdown to 5000
+[13:15:41.080] [SEVERE ] updating countdown to 0
+[13:15:41.080] [SEVERE ] removing all tokens
+[13:15:41.094] [SEVERE ] removing card from slot 0
+[13:15:41.110] [SEVERE ] removing card from slot 1
+[13:15:41.126] [SEVERE ] removing card from slot 2
+[13:15:41.142] [SEVERE ] removing card from slot 3
+[13:15:41.157] [SEVERE ] removing card from slot 4
+[13:15:41.172] [SEVERE ] removing card from slot 5
+[13:15:41.187] [SEVERE ] removing card from slot 6
+[13:15:41.203] [SEVERE ] removing card from slot 7
+[13:15:41.218] [SEVERE ] removing card from slot 8
+[13:15:41.234] [SEVERE ] removing card from slot 9
+[13:15:41.250] [SEVERE ] removing card from slot 10
+[13:15:41.266] [SEVERE ] removing card from slot 11
+[13:15:41.266] [SEVERE ] removing all tokens
+[13:15:41.283] [SEVERE ] placing card 30 in slot 5
+[13:15:41.298] [SEVERE ] placing card 51 in slot 3
+[13:15:41.314] [SEVERE ] placing card 39 in slot 6
+[13:15:41.330] [SEVERE ] placing card 4 in slot 1
+[13:15:41.346] [SEVERE ] placing card 52 in slot 4
+[13:15:41.362] [SEVERE ] placing card 24 in slot 7
+[13:15:41.378] [SEVERE ] placing card 66 in slot 9
+[13:15:41.394] [SEVERE ] placing card 57 in slot 11
+[13:15:41.410] [SEVERE ] placing card 59 in slot 8
+[13:15:41.426] [SEVERE ] placing card 33 in slot 2
+[13:15:41.442] [SEVERE ] placing card 27 in slot 10
+[13:15:41.457] [SEVERE ] setting player 2 freeze to -996
+[13:15:41.457] [SEVERE ] placing card 26 in slot 0
+[13:15:41.457] [SEVERE ] setting player 2 freeze to 0
+[13:15:41.457] [SEVERE ] removing player 2 token from slot 4
+[13:15:41.457] [SEVERE ] removing player 2 token from slot 0
+[13:15:41.457] [SEVERE ] updating countdown to 100
+[13:15:41.457] [SEVERE ] removing player 2 token from slot 1
+[13:15:41.457] [SEVERE ] player 2 placing token on slot 11
+[13:15:41.457] [SEVERE ] player 2 placing token on slot 3
+[13:15:41.457] [SEVERE ] player 2 placing token on slot 9
+[13:15:41.458] [SEVERE ] setting player 2 freeze to 4
+[13:15:41.459] [SEVERE ] updating countdown to 0
+[13:15:42.086] [SEVERE ] setting player 1 freeze to -996
+[13:15:42.086] [SEVERE ] setting player 1 freeze to 0
+[13:15:42.086] [SEVERE ] removing player 1 token from slot 5
+[13:15:42.086] [SEVERE ] removing player 1 token from slot 2
+[13:15:42.086] [SEVERE ] removing player 1 token from slot 3
+[13:15:42.086] [SEVERE ] player 1 placing token on slot 6
+[13:15:42.086] [SEVERE ] player 1 placing token on slot 8
+[13:15:42.086] [SEVERE ] player 1 placing token on slot 3
+[13:15:42.087] [SEVERE ] setting player 1 freeze to 4
+[13:15:42.088] [SEVERE ] updating countdown to 5000
+[13:15:42.089] [SEVERE ] updating countdown to 0
+[13:15:42.089] [SEVERE ] removing all tokens
+[13:15:42.102] [SEVERE ] removing card from slot 0
+[13:15:42.118] [SEVERE ] removing card from slot 1
+[13:15:42.134] [SEVERE ] removing card from slot 2
+[13:15:42.150] [SEVERE ] removing card from slot 3
+[13:15:42.166] [SEVERE ] removing card from slot 4
+[13:15:42.181] [SEVERE ] removing card from slot 5
+[13:15:42.196] [SEVERE ] removing card from slot 6
+[13:15:42.211] [SEVERE ] removing card from slot 7
+[13:15:42.227] [SEVERE ] removing card from slot 8
+[13:15:42.243] [SEVERE ] removing card from slot 9
+[13:15:42.259] [SEVERE ] removing card from slot 10
+[13:15:42.275] [SEVERE ] removing card from slot 11
+[13:15:42.275] [SEVERE ] removing all tokens
+[13:15:42.291] [SEVERE ] placing card 73 in slot 11
+[13:15:42.307] [SEVERE ] placing card 3 in slot 0
+[13:15:42.323] [SEVERE ] placing card 36 in slot 10
+[13:15:42.339] [SEVERE ] placing card 24 in slot 1
+[13:15:42.355] [SEVERE ] placing card 15 in slot 2
+[13:15:42.370] [SEVERE ] placing card 64 in slot 5
+[13:15:42.386] [SEVERE ] placing card 61 in slot 8
+[13:15:42.401] [SEVERE ] placing card 37 in slot 6
+[13:15:42.417] [SEVERE ] placing card 28 in slot 9
+[13:15:42.433] [SEVERE ] placing card 53 in slot 7
+[13:15:42.449] [SEVERE ] placing card 17 in slot 3
+[13:15:42.465] [SEVERE ] setting player 2 freeze to -996
+[13:15:42.465] [SEVERE ] placing card 5 in slot 4
+[13:15:42.465] [SEVERE ] setting player 2 freeze to 0
+[13:15:42.465] [SEVERE ] removing player 2 token from slot 11
+[13:15:42.465] [SEVERE ] updating countdown to 100
+[13:15:42.465] [SEVERE ] removing player 2 token from slot 3
+[13:15:42.465] [SEVERE ] removing player 2 token from slot 9
+[13:15:42.465] [SEVERE ] player 2 placing token on slot 7
+[13:15:42.465] [SEVERE ] player 2 placing token on slot 9
+[13:15:42.465] [SEVERE ] player 2 placing token on slot 3
+[13:15:42.466] [SEVERE ] setting player 2 freeze to 4
+[13:15:42.467] [SEVERE ] updating countdown to 0
+[13:15:43.099] [SEVERE ] setting player 1 freeze to -996
+[13:15:43.099] [SEVERE ] setting player 1 freeze to 0
+[13:15:43.099] [SEVERE ] removing player 1 token from slot 6
+[13:15:43.099] [SEVERE ] removing player 1 token from slot 8
+[13:15:43.099] [SEVERE ] removing player 1 token from slot 3
+[13:15:43.099] [SEVERE ] player 1 placing token on slot 4
+[13:15:43.099] [SEVERE ] player 1 placing token on slot 3
+[13:15:43.099] [SEVERE ] player 1 placing token on slot 5
+[13:15:43.100] [SEVERE ] setting player 1 freeze to 4
+[13:15:43.100] [SEVERE ] updating countdown to 5000
+[13:15:43.101] [SEVERE ] updating countdown to 0
+[13:15:43.101] [SEVERE ] removing all tokens
+[13:15:43.115] [SEVERE ] removing card from slot 0
+[13:15:43.130] [SEVERE ] removing card from slot 1
+[13:15:43.146] [SEVERE ] removing card from slot 2
+[13:15:43.162] [SEVERE ] removing card from slot 3
+[13:15:43.178] [SEVERE ] removing card from slot 4
+[13:15:43.194] [SEVERE ] removing card from slot 5
+[13:15:43.210] [SEVERE ] removing card from slot 6
+[13:15:43.226] [SEVERE ] removing card from slot 7
+[13:15:43.242] [SEVERE ] removing card from slot 8
+[13:15:43.257] [SEVERE ] removing card from slot 9
+[13:15:43.273] [SEVERE ] removing card from slot 10
+[13:15:43.289] [SEVERE ] removing card from slot 11
+[13:15:43.289] [SEVERE ] removing all tokens
+[13:15:43.305] [SEVERE ] placing card 45 in slot 0
+[13:15:43.320] [SEVERE ] placing card 52 in slot 11
+[13:15:43.335] [SEVERE ] placing card 15 in slot 7
+[13:15:43.351] [SEVERE ] placing card 39 in slot 10
+[13:15:43.367] [SEVERE ] placing card 34 in slot 1
+[13:15:43.383] [SEVERE ] placing card 1 in slot 6
+[13:15:43.399] [SEVERE ] placing card 37 in slot 5
+[13:15:43.415] [SEVERE ] placing card 38 in slot 4
+[13:15:43.431] [SEVERE ] placing card 25 in slot 8
+[13:15:43.447] [SEVERE ] placing card 26 in slot 9
+[13:15:43.463] [SEVERE ] placing card 73 in slot 3
+[13:15:43.479] [SEVERE ] placing card 21 in slot 2
+[13:15:43.479] [SEVERE ] setting player 2 freeze to -996
+[13:15:43.479] [SEVERE ] updating countdown to 100
+[13:15:43.479] [SEVERE ] setting player 2 freeze to 0
+[13:15:43.479] [SEVERE ] removing player 2 token from slot 7
+[13:15:43.479] [SEVERE ] removing player 2 token from slot 9
+[13:15:43.479] [SEVERE ] removing player 2 token from slot 3
+[13:15:43.479] [SEVERE ] player 2 placing token on slot 7
+[13:15:43.479] [SEVERE ] player 2 placing token on slot 1
+[13:15:43.479] [SEVERE ] player 2 placing token on slot 0
+[13:15:43.479] [SEVERE ] setting player 2 freeze to 4
+[13:15:43.480] [SEVERE ] updating countdown to 0
+[13:15:44.112] [SEVERE ] setting player 1 freeze to -996
+[13:15:44.113] [SEVERE ] setting player 1 freeze to 0
+[13:15:44.113] [SEVERE ] removing player 1 token from slot 4
+[13:15:44.113] [SEVERE ] removing player 1 token from slot 3
+[13:15:44.113] [SEVERE ] removing player 1 token from slot 5
+[13:15:44.113] [SEVERE ] player 1 placing token on slot 6
+[13:15:44.113] [SEVERE ] player 1 placing token on slot 5
+[13:15:44.113] [SEVERE ] player 1 placing token on slot 9
+[13:15:44.113] [SEVERE ] setting player 1 freeze to 4
+[13:15:44.114] [SEVERE ] updating countdown to 5000
+[13:15:44.114] [SEVERE ] updating countdown to 0
+[13:15:44.114] [SEVERE ] removing all tokens
+[13:15:44.128] [SEVERE ] removing card from slot 0
+[13:15:44.144] [SEVERE ] removing card from slot 1
+[13:15:44.160] [SEVERE ] removing card from slot 2
+[13:15:44.176] [SEVERE ] removing card from slot 3
+[13:15:44.192] [SEVERE ] removing card from slot 4
+[13:15:44.207] [SEVERE ] removing card from slot 5
+[13:15:44.223] [SEVERE ] removing card from slot 6
+[13:15:44.239] [SEVERE ] removing card from slot 7
+[13:15:44.255] [SEVERE ] removing card from slot 8
+[13:15:44.271] [SEVERE ] removing card from slot 9
+[13:15:44.287] [SEVERE ] removing card from slot 10
+[13:15:44.303] [SEVERE ] removing card from slot 11
+[13:15:44.303] [SEVERE ] removing all tokens
+[13:15:44.319] [SEVERE ] placing card 14 in slot 11
+[13:15:44.334] [SEVERE ] placing card 19 in slot 5
+[13:15:44.349] [SEVERE ] placing card 42 in slot 7
+[13:15:44.364] [SEVERE ] placing card 24 in slot 6
+[13:15:44.379] [SEVERE ] placing card 66 in slot 1
+[13:15:44.395] [SEVERE ] placing card 12 in slot 10
+[13:15:44.411] [SEVERE ] placing card 30 in slot 9
+[13:15:44.427] [SEVERE ] placing card 60 in slot 4
+[13:15:44.443] [SEVERE ] placing card 67 in slot 3
+[13:15:44.459] [SEVERE ] placing card 51 in slot 2
+[13:15:44.475] [SEVERE ] placing card 7 in slot 0
+[13:15:44.490] [SEVERE ] placing card 74 in slot 8
+[13:15:44.490] [SEVERE ] setting player 2 freeze to -996
+[13:15:44.490] [SEVERE ] updating countdown to 100
+[13:15:44.490] [SEVERE ] setting player 2 freeze to 0
+[13:15:44.490] [SEVERE ] removing player 2 token from slot 7
+[13:15:44.490] [SEVERE ] removing player 2 token from slot 1
+[13:15:44.490] [SEVERE ] removing player 2 token from slot 0
+[13:15:44.490] [SEVERE ] player 2 placing token on slot 11
+[13:15:44.490] [SEVERE ] player 2 placing token on slot 8
+[13:15:44.491] [SEVERE ] player 2 placing token on slot 9
+[13:15:44.491] [SEVERE ] setting player 2 freeze to 4
+[13:15:44.492] [SEVERE ] updating countdown to 0
+[13:15:45.123] [SEVERE ] setting player 1 freeze to -996
+[13:15:45.123] [SEVERE ] setting player 1 freeze to 0
+[13:15:45.123] [SEVERE ] removing player 1 token from slot 6
+[13:15:45.123] [SEVERE ] removing player 1 token from slot 5
+[13:15:45.123] [SEVERE ] removing player 1 token from slot 9
+[13:15:45.123] [SEVERE ] player 1 placing token on slot 1
+[13:15:45.123] [SEVERE ] player 1 placing token on slot 0
+[13:15:45.123] [SEVERE ] player 1 placing token on slot 5
+[13:15:45.123] [SEVERE ] setting player 1 freeze to 4
+[13:15:45.124] [SEVERE ] updating countdown to 5000
+[13:15:45.125] [SEVERE ] updating countdown to 0
+[13:15:45.125] [SEVERE ] removing all tokens
+[13:15:45.139] [SEVERE ] removing card from slot 0
+[13:15:45.155] [SEVERE ] removing card from slot 1
+[13:15:45.171] [SEVERE ] removing card from slot 2
+[13:15:45.186] [SEVERE ] removing card from slot 3
+[13:15:45.202] [SEVERE ] removing card from slot 4
+[13:15:45.217] [SEVERE ] removing card from slot 5
+[13:15:45.233] [SEVERE ] removing card from slot 6
+[13:15:45.249] [SEVERE ] removing card from slot 7
+[13:15:45.265] [SEVERE ] removing card from slot 8
+[13:15:45.281] [SEVERE ] removing card from slot 9
+[13:15:45.297] [SEVERE ] removing card from slot 10
+[13:15:45.313] [SEVERE ] removing card from slot 11
+[13:15:45.313] [SEVERE ] removing all tokens
+[13:15:45.329] [SEVERE ] placing card 61 in slot 1
+[13:15:45.345] [SEVERE ] placing card 74 in slot 2
+[13:15:45.361] [SEVERE ] placing card 37 in slot 7
+[13:15:45.377] [SEVERE ] placing card 26 in slot 9
+[13:15:45.393] [SEVERE ] placing card 35 in slot 11
+[13:15:45.408] [SEVERE ] placing card 2 in slot 10
+[13:15:45.424] [SEVERE ] placing card 23 in slot 0
+[13:15:45.439] [SEVERE ] placing card 43 in slot 6
+[13:15:45.454] [SEVERE ] placing card 31 in slot 4
+[13:15:45.469] [SEVERE ] placing card 16 in slot 5
+[13:15:45.485] [SEVERE ] placing card 49 in slot 3
+[13:15:45.501] [SEVERE ] placing card 32 in slot 8
+[13:15:45.501] [SEVERE ] setting player 2 freeze to -996
+[13:15:45.501] [SEVERE ] updating countdown to 100
+[13:15:45.501] [SEVERE ] setting player 2 freeze to 0
+[13:15:45.501] [SEVERE ] removing player 2 token from slot 11
+[13:15:45.501] [SEVERE ] removing player 2 token from slot 8
+[13:15:45.501] [SEVERE ] removing player 2 token from slot 9
+[13:15:45.502] [SEVERE ] player 2 placing token on slot 2
+[13:15:45.502] [SEVERE ] player 2 placing token on slot 4
+[13:15:45.502] [SEVERE ] player 2 placing token on slot 5
+[13:15:45.502] [SEVERE ] setting player 2 freeze to 4
+[13:15:45.503] [SEVERE ] updating countdown to 0
+[13:15:46.136] [SEVERE ] setting player 1 freeze to -996
+[13:15:46.137] [SEVERE ] setting player 1 freeze to 0
+[13:15:46.137] [SEVERE ] removing player 1 token from slot 1
+[13:15:46.137] [SEVERE ] removing player 1 token from slot 0
+[13:15:46.137] [SEVERE ] removing player 1 token from slot 5
+[13:15:46.137] [SEVERE ] player 1 placing token on slot 1
+[13:15:46.137] [SEVERE ] player 1 placing token on slot 10
+[13:15:46.137] [SEVERE ] player 1 placing token on slot 2
+[13:15:46.137] [SEVERE ] setting player 1 freeze to 4
+[13:15:46.138] [SEVERE ] updating countdown to 5000
+[13:15:46.138] [SEVERE ] updating countdown to 0
+[13:15:46.139] [SEVERE ] removing all tokens
+[13:15:46.152] [SEVERE ] removing card from slot 0
+[13:15:46.168] [SEVERE ] removing card from slot 1
+[13:15:46.183] [SEVERE ] removing card from slot 2
+[13:15:46.198] [SEVERE ] removing card from slot 3
+[13:15:46.213] [SEVERE ] removing card from slot 4
+[13:15:46.229] [SEVERE ] removing card from slot 5
+[13:15:46.245] [SEVERE ] removing card from slot 6
+[13:15:46.261] [SEVERE ] removing card from slot 7
+[13:15:46.277] [SEVERE ] removing card from slot 8
+[13:15:46.293] [SEVERE ] removing card from slot 9
+[13:15:46.309] [SEVERE ] removing card from slot 10
+[13:15:46.325] [SEVERE ] removing card from slot 11
+[13:15:46.325] [SEVERE ] removing all tokens
+[13:15:46.341] [SEVERE ] placing card 55 in slot 4
+[13:15:46.357] [SEVERE ] placing card 13 in slot 1
+[13:15:46.373] [SEVERE ] placing card 56 in slot 3
+[13:15:46.389] [SEVERE ] placing card 39 in slot 8
+[13:15:46.405] [SEVERE ] placing card 25 in slot 0
+[13:15:46.421] [SEVERE ] placing card 57 in slot 10
+[13:15:46.436] [SEVERE ] placing card 43 in slot 2
+[13:15:46.452] [SEVERE ] placing card 17 in slot 9
+[13:15:46.467] [SEVERE ] placing card 61 in slot 6
+[13:15:46.483] [SEVERE ] placing card 21 in slot 11
+[13:15:46.499] [SEVERE ] placing card 65 in slot 7
+[13:15:46.515] [SEVERE ] placing card 20 in slot 5
+[13:15:46.515] [SEVERE ] setting player 2 freeze to -996
+[13:15:46.515] [SEVERE ] updating countdown to 100
+[13:15:46.515] [SEVERE ] setting player 2 freeze to 0
+[13:15:46.515] [SEVERE ] removing player 2 token from slot 2
+[13:15:46.515] [SEVERE ] removing player 2 token from slot 4
+[13:15:46.515] [SEVERE ] removing player 2 token from slot 5
+[13:15:46.515] [SEVERE ] player 2 placing token on slot 6
+[13:15:46.515] [SEVERE ] player 2 placing token on slot 11
+[13:15:46.515] [SEVERE ] player 2 placing token on slot 3
+[13:15:46.516] [SEVERE ] setting player 2 freeze to 4
+[13:15:46.517] [SEVERE ] updating countdown to 0
+[13:15:47.150] [SEVERE ] setting player 1 freeze to -996
+[13:15:47.150] [SEVERE ] setting player 1 freeze to 0
+[13:15:47.150] [SEVERE ] removing player 1 token from slot 1
+[13:15:47.150] [SEVERE ] removing player 1 token from slot 10
+[13:15:47.150] [SEVERE ] removing player 1 token from slot 2
+[13:15:47.150] [SEVERE ] player 1 placing token on slot 2
+[13:15:47.150] [SEVERE ] player 1 placing token on slot 6
+[13:15:47.150] [SEVERE ] player 1 placing token on slot 3
+[13:15:47.150] [SEVERE ] setting player 1 freeze to 4
+[13:15:47.152] [SEVERE ] updating countdown to 5000
+[13:15:47.152] [SEVERE ] updating countdown to 0
+[13:15:47.152] [SEVERE ] removing all tokens
+[13:15:47.166] [SEVERE ] removing card from slot 0
+[13:15:47.182] [SEVERE ] removing card from slot 1
+[13:15:47.198] [SEVERE ] removing card from slot 2
+[13:15:47.213] [SEVERE ] removing card from slot 3
+[13:15:47.227] [SEVERE ] removing card from slot 4
+[13:15:47.243] [SEVERE ] removing card from slot 5
+[13:15:47.259] [SEVERE ] removing card from slot 6
+[13:15:47.275] [SEVERE ] removing card from slot 7
+[13:15:47.291] [SEVERE ] removing card from slot 8
+[13:15:47.307] [SEVERE ] removing card from slot 9
+[13:15:47.323] [SEVERE ] removing card from slot 10
+[13:15:47.338] [SEVERE ] removing card from slot 11
+[13:15:47.338] [SEVERE ] removing all tokens
+[13:15:47.354] [SEVERE ] placing card 48 in slot 0
+[13:15:47.370] [SEVERE ] placing card 7 in slot 11
+[13:15:47.385] [SEVERE ] placing card 23 in slot 5
+[13:15:47.401] [SEVERE ] placing card 56 in slot 3
+[13:15:47.417] [SEVERE ] placing card 33 in slot 8
+[13:15:47.433] [SEVERE ] placing card 39 in slot 4
+[13:15:47.449] [SEVERE ] placing card 34 in slot 7
+[13:15:47.465] [SEVERE ] placing card 3 in slot 2
+[13:15:47.481] [SEVERE ] placing card 55 in slot 1
+[13:15:47.497] [SEVERE ] placing card 77 in slot 6
+[13:15:47.512] [SEVERE ] placing card 21 in slot 9
+[13:15:47.528] [SEVERE ] setting player 2 freeze to -996
+[13:15:47.528] [SEVERE ] placing card 71 in slot 10
+[13:15:47.528] [SEVERE ] updating countdown to 100
+[13:15:47.528] [SEVERE ] setting player 2 freeze to 0
+[13:15:47.529] [SEVERE ] removing player 2 token from slot 6
+[13:15:47.529] [SEVERE ] removing player 2 token from slot 11
+[13:15:47.529] [SEVERE ] removing player 2 token from slot 3
+[13:15:47.529] [SEVERE ] player 2 placing token on slot 7
+[13:15:47.529] [SEVERE ] player 2 placing token on slot 6
+[13:15:47.529] [SEVERE ] player 2 placing token on slot 1
+[13:15:47.529] [SEVERE ] setting player 2 freeze to 4
+[13:15:47.529] [SEVERE ] updating countdown to 0
+[13:15:48.160] [SEVERE ] setting player 1 freeze to -996
+[13:15:48.160] [SEVERE ] setting player 1 freeze to 0
+[13:15:48.160] [SEVERE ] removing player 1 token from slot 2
+[13:15:48.160] [SEVERE ] removing player 1 token from slot 6
+[13:15:48.160] [SEVERE ] removing player 1 token from slot 3
+[13:15:48.160] [SEVERE ] player 1 placing token on slot 10
+[13:15:48.161] [SEVERE ] player 1 placing token on slot 1
+[13:15:48.161] [SEVERE ] player 1 placing token on slot 8
+[13:15:48.161] [SEVERE ] setting player 1 freeze to 4
+[13:15:48.162] [SEVERE ] updating countdown to 5000
+[13:15:48.163] [SEVERE ] updating countdown to 0
+[13:15:48.163] [SEVERE ] removing all tokens
+[13:15:48.176] [SEVERE ] removing card from slot 0
+[13:15:48.192] [SEVERE ] removing card from slot 1
+[13:15:48.208] [SEVERE ] removing card from slot 2
+[13:15:48.224] [SEVERE ] removing card from slot 3
+[13:15:48.239] [SEVERE ] removing card from slot 4
+[13:15:48.254] [SEVERE ] removing card from slot 5
+[13:15:48.269] [SEVERE ] removing card from slot 6
+[13:15:48.285] [SEVERE ] removing card from slot 7
+[13:15:48.301] [SEVERE ] removing card from slot 8
+[13:15:48.317] [SEVERE ] removing card from slot 9
+[13:15:48.333] [SEVERE ] removing card from slot 10
+[13:15:48.349] [SEVERE ] removing card from slot 11
+[13:15:48.349] [SEVERE ] removing all tokens
+[13:15:48.365] [SEVERE ] placing card 40 in slot 7
+[13:15:48.381] [SEVERE ] placing card 73 in slot 2
+[13:15:48.396] [SEVERE ] placing card 14 in slot 0
+[13:15:48.411] [SEVERE ] placing card 16 in slot 10
+[13:15:48.427] [SEVERE ] placing card 49 in slot 5
+[13:15:48.443] [SEVERE ] placing card 63 in slot 6
+[13:15:48.459] [SEVERE ] placing card 17 in slot 9
+[13:15:48.475] [SEVERE ] placing card 35 in slot 4
+[13:15:48.490] [SEVERE ] placing card 79 in slot 11
+[13:15:48.506] [SEVERE ] placing card 5 in slot 1
+[13:15:48.522] [SEVERE ] placing card 22 in slot 3
+[13:15:48.534] [SEVERE ] exit button pressed
+[13:15:48.534] [INFO   ] Thread computer-0 terminated.
+[13:15:48.534] [INFO   ] Thread computer-1 terminated.
+[13:15:48.538] [SEVERE ] setting player 2 freeze to -996
+[13:15:48.538] [SEVERE ] placing card 68 in slot 8
+[13:15:48.539] [SEVERE ] setting player 2 freeze to 0
+[13:15:48.539] [SEVERE ] removing player 2 token from slot 7
+[13:15:48.539] [SEVERE ] removing player 2 token from slot 6
+[13:15:48.539] [SEVERE ] removing player 2 token from slot 1
+[13:15:48.539] [SEVERE ] removing all tokens
+[13:15:48.553] [SEVERE ] removing card from slot 0
+[13:15:48.569] [SEVERE ] removing card from slot 1
+[13:15:48.585] [SEVERE ] removing card from slot 2
+[13:15:48.601] [SEVERE ] removing card from slot 3
+[13:15:48.617] [SEVERE ] removing card from slot 4
+[13:15:48.633] [SEVERE ] removing card from slot 5
+[13:15:48.649] [SEVERE ] removing card from slot 6
+[13:15:48.665] [SEVERE ] removing card from slot 7
+[13:15:48.681] [SEVERE ] removing card from slot 8
+[13:15:48.697] [SEVERE ] removing card from slot 9
+[13:15:48.713] [SEVERE ] removing card from slot 10
+[13:15:48.729] [SEVERE ] removing card from slot 11
+[13:15:48.732] [SEVERE ] announcing winner(s): player 1, player 2
+[13:15:48.738] [SEVERE ] removing all tokens
+[13:15:48.738] [INFO   ] Thread dealer terminated.
+[13:15:48.739] [INFO   ] thread dealer terminated.
+[13:15:48.739] [SEVERE ] thanks for playing... it was fun!
+[13:15:48.740] [INFO   ] thread main terminated.

@@ -1,0 +1,47 @@
+[12:25:58.552] [INFO   ] thread main starting.
+[12:25:58.559] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[12:25:58.560] [SEVERE ] configuration file was loaded from resources directory.
+[12:25:58.991] [INFO   ] thread dealer starting.
+[12:25:58.992] [INFO   ] Thread dealer starting.
+[12:25:58.993] [INFO   ] Thread Thread-1starting.
+[12:25:58.995] [INFO   ] Thread Thread-2starting.
+[12:25:59.103] [SEVERE ] placing card 57 in slot 8
+[12:25:59.203] [SEVERE ] placing card 1 in slot 5
+[12:25:59.303] [SEVERE ] placing card 35 in slot 3
+[12:25:59.404] [SEVERE ] placing card 3 in slot 0
+[12:25:59.504] [SEVERE ] placing card 9 in slot 9
+[12:25:59.605] [SEVERE ] placing card 4 in slot 4
+[12:25:59.705] [SEVERE ] placing card 28 in slot 10
+[12:25:59.805] [SEVERE ] placing card 18 in slot 6
+[12:25:59.906] [SEVERE ] placing card 14 in slot 2
+[12:26:00.006] [SEVERE ] placing card 19 in slot 7
+[12:26:00.107] [SEVERE ] placing card 20 in slot 1
+[12:26:00.207] [SEVERE ] placing card 30 in slot 11
+[12:26:00.207] [SEVERE ] updating countdown to 60000
+[12:26:01.209] [SEVERE ] updating countdown to 59000
+[12:26:02.209] [SEVERE ] updating countdown to 58000
+[12:26:03.210] [SEVERE ] updating countdown to 57000
+[12:26:04.211] [SEVERE ] updating countdown to 56000
+[12:26:05.211] [SEVERE ] updating countdown to 55000
+[12:26:06.212] [SEVERE ] updating countdown to 54000
+[12:26:07.213] [SEVERE ] updating countdown to 53000
+[12:26:08.213] [SEVERE ] updating countdown to 52000
+[12:26:09.214] [SEVERE ] updating countdown to 51000
+[12:26:10.215] [SEVERE ] updating countdown to 50000
+[12:26:11.216] [SEVERE ] updating countdown to 49000
+[12:26:11.464] [SEVERE ] exit button pressed
+[12:26:12.217] [SEVERE ] updating countdown to 48000
+[12:26:12.218] [SEVERE ] removing all tokens
+[12:26:12.318] [SEVERE ] removing card from slot 0
+[12:26:12.419] [SEVERE ] removing card from slot 1
+[12:26:12.519] [SEVERE ] removing card from slot 2
+[12:26:12.620] [SEVERE ] removing card from slot 3
+[12:26:12.720] [SEVERE ] removing card from slot 4
+[12:26:12.820] [SEVERE ] removing card from slot 5
+[12:26:12.921] [SEVERE ] removing card from slot 6
+[12:26:13.021] [SEVERE ] removing card from slot 7
+[12:26:13.121] [SEVERE ] removing card from slot 8
+[12:26:13.222] [SEVERE ] removing card from slot 9
+[12:26:13.322] [SEVERE ] removing card from slot 10
+[12:26:13.423] [SEVERE ] removing card from slot 11
+[12:26:13.423] [SEVERE ] announcing winner(s): player 1

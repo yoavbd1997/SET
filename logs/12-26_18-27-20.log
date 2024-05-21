@@ -1,0 +1,34 @@
+[18:27:20.441] [INFO   ] thread main starting.
+[18:27:20.448] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[18:27:20.450] [SEVERE ] configuration file was loaded from resources directory.
+[18:27:20.949] [INFO   ] thread dealer starting.
+[18:27:20.950] [INFO   ] Thread dealer starting.
+[18:27:20.951] [INFO   ] Thread Thread-4starting.
+[18:27:20.951] [INFO   ] Thread Thread-6starting.
+[18:27:20.951] [INFO   ] Thread Thread-5starting.
+[18:27:20.951] [INFO   ] Thread Thread-3starting.
+[18:27:21.014] [INFO   ] Thread computer-2 starting.
+[18:27:21.015] [INFO   ] Thread computer-1 starting.
+[18:27:21.029] [INFO   ] Thread computer-0 starting.
+[18:27:21.030] [SEVERE ] removing all tokens
+[18:27:21.029] [INFO   ] Thread computer-3 starting.
+[18:27:21.196] [SEVERE ] placing card 61 in slot 1
+[18:27:21.307] [SEVERE ] placing card 41 in slot 0
+[18:27:21.415] [SEVERE ] placing card 31 in slot 4
+[18:27:21.524] [SEVERE ] placing card 27 in slot 7
+[18:27:21.634] [SEVERE ] placing card 65 in slot 6
+[18:27:21.744] [SEVERE ] placing card 34 in slot 3
+[18:27:21.854] [SEVERE ] placing card 37 in slot 9
+[18:27:21.964] [SEVERE ] placing card 69 in slot 5
+[18:27:22.074] [SEVERE ] placing card 23 in slot 10
+[18:27:22.183] [SEVERE ] placing card 28 in slot 8
+[18:27:22.295] [SEVERE ] placing card 56 in slot 11
+[18:27:22.405] [SEVERE ] placing card 44 in slot 2
+[18:27:22.405] [SEVERE ] updating countdown to 10000
+[18:27:23.418] [SEVERE ] updating countdown to 9000
+[18:27:24.430] [SEVERE ] updating countdown to 8000
+[18:27:25.442] [SEVERE ] updating countdown to 7000
+[18:27:26.456] [SEVERE ] updating countdown to 6000
+[18:27:27.473] [SEVERE ] updating countdown to 5000
+[18:27:28.483] [SEVERE ] updating countdown to 5000
+[18:27:28.621] [SEVERE ] updating countdown to 4000
